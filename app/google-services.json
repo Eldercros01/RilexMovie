@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404565899458",
+    "project_id": "rilexmovie",
+    "storage_bucket": "rilexmovie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404565899458:android:52f478b6c121b36410635b",
+        "android_client_info": {
+          "package_name": "com.example.rilexmovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBKbnT1h3sCNPnMBrAIzqwv97awSp7wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
